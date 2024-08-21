@@ -15,7 +15,7 @@ class _MYAPP extends State{
   }
   Widget build(BuildContext context){
     return MaterialApp(debugShowCheckedModeBanner: false,
-      home: Scaffold(backgroundColor: Colors.black,
+      home: Scaffold(backgroundColor: Colors.blue,
         appBar: AppBar(
           title: Text('DICE_APP'),
         ),
